@@ -1,0 +1,45 @@
+.what{
+    text-align: center;
+    padding: 250px;
+    color:skyblue;
+}
+.row{
+    padding:40px ;
+    color:skyblue;
+    font-size: 20px;
+    font-display: bold;
+    margin: auto;
+}
+#create{
+    color:skyblue;
+    text-align: justify;
+    padding-right: 10;
+}
+.black{
+    color:black;
+    font-display: bold;
+    font-size: 20px;
+    text-overflow: inherit;
+    text-decoration: aqua;
+}
+#blue{
+    color:skyblue;
+}
+.bttn{
+    align: center;
+}
+.cent{
+    text-align: center;
+    padding: 100px;
+    color:white;
+}
+.text-center{
+    text-align: center;
+}
+body{
+    background:url("https://razorpay.com/learn-content/uploads/2019/09/register-company-online.png" )  no-repeat center center/cover ;
+    height: 120px;
+    }
+   #name{
+       color: skyblue;
+   }
